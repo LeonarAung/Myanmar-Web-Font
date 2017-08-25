@@ -3,11 +3,11 @@ Myanmar Web Font embed for every web units from any device (Mobile/Desktop/Table
 
 ## Easy CSS Implementation
 
-#### For Custom Websites
+#### For Custom Websites ![Custom Web](https://cdn0.iconfinder.com/data/icons/layout-and-location/24/Untitled-2-25-32.png)
 add external css after ``` <head> ``` opening next line
-#### For Bloggers
+#### For Bloggers ![Bloggers](https://cdn0.iconfinder.com/data/icons/social-network-7/50/23-24.png)
 add external css after ``` <head> ``` opening next line and Goto Theme->Mobile->(Gear Icon)->Choose Mobile Theme to ->Custom . (To work on mobile devices)
-#### For Wordpress
+#### For Wordpress ![Wordpress](https://cdn0.iconfinder.com/data/icons/social-network-9/50/27-32.png)
 Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<head>``` -> and paste below external css code after opening ```<head>``` line
 
 ## External CSS For Zawgyi
