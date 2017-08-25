@@ -12,7 +12,7 @@ All HTML text are transformed into zawgyi font.
 
 # For Unicode
 ```
-<link rel="stylesheet" type="text/css" href="https://github.com/LeonarAung/MyanmarFont/blob/master/unicode.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/ad9e45c3/unicode.css">
 ```
 All HTML text are transformed into unicode font.
 
