@@ -14,7 +14,7 @@ add external css after ``` <head> ``` opening next line
 Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<head>``` -> and paste below external css code after opening ```<head>``` line
 
 ျမန္မာျပည္မွဆုိပါက ဒီမွာ ဖတ္ရွုႏုိင္ပါတယ္ ။
-<a target=_blank href="http://public.androitechinnovation.com/blogger-zawgyiunicode/"> AndroiTech Innovation Public Blog</a>
+<a target="_blank" href="http://public.androitechinnovation.com/blogger-zawgyiunicode/"> AndroiTech Innovation Public Blog</a>
 
 ## External CSS For Zawgyi
 ```
