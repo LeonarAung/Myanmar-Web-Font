@@ -2,7 +2,13 @@
 Myanmar Web Font embed for every web units from any device (Mobile/Desktop/Tablets).
 
 ## Easy CSS Implementation
-Only one line to add before ``` </head> ``` tag
+
+#### For Custom Websites
+add external css link below to after ``` <head> ``` open next line
+#### For Bloggers
+add external css link below to after ``` <head> ``` open next line and Goto Theme->Mobile->(Gear Icon)->Choose Mobile Theme to ->Custom . (To work on mobile devices)
+#### For Wordpress
+Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for <head>-> and paste below external css code after opening <head> line
 
 ## For Zawgyi
 ```
@@ -17,7 +23,9 @@ All HTML text are transformed into zawgyi font.
 All HTML text are transformed into unicode font.
 
 
+
 ## For Custom Element
+IF you want to customize in detail, you can use css standard format.
 
 ```
 <style>
@@ -33,6 +41,8 @@ src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.woff') for
 <h1 style='font-family:Zawgyi-One;'> မဂၤလာပါ ျမန္မာ ။ ေဇာ္ဂ်ီေဖာင့္ျဖစ္ပါတယ္ </h1>
 <h1 style='font-family:Unicode;'> မင်္ဂလာပါ မြန်မာ ။ ယူနီကုဒ် ဖောင့်ဖြစ်ပါတယ် </h1>
 ```
+
+
 
 ## Test Font
 Test result - <a target=_blank href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/index.html"> Here </a>
