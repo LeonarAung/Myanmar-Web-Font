@@ -43,4 +43,5 @@ CSS
 ## Author
 
 * **[Leonar Aung](https://github.com/LeonarAung)**
+For any bug, please contact leonaraung1990@gmail.com
 Credit - https://mmwebfonts.comquas.com/
