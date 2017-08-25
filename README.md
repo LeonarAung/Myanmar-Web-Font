@@ -8,12 +8,14 @@ add external css after ``` <head> ``` opening next line
 
 #### For Bloggers ![Bloggers](https://cdn0.iconfinder.com/data/icons/social-network-7/50/23-24.png)
 1 - Goto Theme->Edit HTML->add external css after ``` <head> ``` opening next line <br/>
-2 - Goto Theme->Mobile->(Gear Icon)->Choose Mobile Theme to ->Custom . (To work on mobile devices)
+2 - Goto Theme->Mobile->(Gear Icon)->Choose Mobile Theme to ->Custom . (To work on mobile devices)<br/>
 ျမန္မာျပည္မွဆုိပါက ဒီမွာ ဖတ္ရွုႏုိင္ပါတယ္ ။
 <a target="_blank" href="http://public.androitechinnovation.com/blogger-zawgyiunicode/"> AndroiTech Innovation Public Blog (Blogger)</a>
 
 #### For Wordpress ![Wordpress](https://cdn0.iconfinder.com/data/icons/social-network-9/50/27-32.png)
-Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<head>``` -> and paste below external css code after opening ```<head>``` line
+Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<head>``` -> and paste below external css code after opening ```<head>``` line<br/>
+ျမန္မာျပည္မွဆုိပါက ဒီမွာ ဖတ္ရွုႏုိင္ပါတယ္ ။
+<a target="_blank" href="http://public.androitechinnovation.com/wordpress-zawgyiunicode/"> AndroiTech Innovation Public Blog (Blogger)</a>
 
 ## External CSS For Zawgyi
 ```
