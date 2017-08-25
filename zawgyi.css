@@ -1,0 +1,8 @@
+@font-face {
+font-family:'Zawgyi-One';
+src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/43a76630/zawgyi.woff') format('woff'), url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/43a76630/zawgyi.ttf') format('ttf');
+}
+html *
+{    
+   font-family: Zawgyi-One !important;
+}
