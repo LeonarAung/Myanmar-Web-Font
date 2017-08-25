@@ -35,7 +35,7 @@ src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.woff') for
 ```
 
 ## Test Font
-Test result - <a href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/index.html"> Here </a>
+Test result - <a target=_blank href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/index.html"> Here </a>
 ## Built With
 
 CSS
