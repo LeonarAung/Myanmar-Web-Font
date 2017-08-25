@@ -1,23 +1,23 @@
-# MyanmarFont
+## MyanmarFont
 Myanmar Web Font embed for every web units from any device (Mobile/Desktop/Tablets).
 
-# Easy CSS Implementation
+## Easy CSS Implementation
 Only one line to add before ``` </head> ``` tag
 
-# For Zawgyi
+## For Zawgyi
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/02f8b62b/zawgyi.css">
 ```
 All HTML text are transformed into zawgyi font.
 
-# For Unicode
+## For Unicode
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/ad9e45c3/unicode.css">
 ```
 All HTML text are transformed into unicode font.
 
 
-# For Custom Element
+## For Custom Element
 
 ```
 <style>
@@ -34,13 +34,13 @@ src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.woff') for
 <h1 style='font-family:Unicode;'> မင်္ဂလာပါ မြန်မာ ။ ယူနီကုဒ် ဖောင့်ဖြစ်ပါတယ် </h1>
 ```
 
-# Test Font
+## Test Font
 Test result - <a href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/index.html"> Here </a>
 ## Built With
 
 CSS
 
-# Author
+## Author
 
 * **[Leonar Aung](https://github.com/LeonarAung)**
 Credit - https://mmwebfonts.comquas.com/
