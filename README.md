@@ -8,7 +8,7 @@ add external css link below to after ``` <head> ``` open next line
 #### For Bloggers
 add external css link below to after ``` <head> ``` open next line and Goto Theme->Mobile->(Gear Icon)->Choose Mobile Theme to ->Custom . (To work on mobile devices)
 #### For Wordpress
-Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for <head>-> and paste below external css code after opening <head> line
+Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<head>``` -> and paste below external css code after opening ```<head>``` line
 
 ## For Zawgyi
 ```
