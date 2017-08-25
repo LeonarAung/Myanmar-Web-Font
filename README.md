@@ -7,7 +7,7 @@ Myanmar Web Font embed for every web units from any device (Mobile/Desktop/Table
 add external css after ``` <head> ``` opening next line
 
 #### For Bloggers ![Bloggers](https://cdn0.iconfinder.com/data/icons/social-network-7/50/23-24.png)
-1 - Goto Theme->Edit HTML->add external css after ``` <head> ``` opening next line 
+1 - Goto Theme->Edit HTML->add external css after ``` <head> ``` opening next line <br/>
 2 - Goto Theme->Mobile->(Gear Icon)->Choose Mobile Theme to ->Custom . (To work on mobile devices)
 
 #### For Wordpress ![Wordpress](https://cdn0.iconfinder.com/data/icons/social-network-9/50/27-32.png)
