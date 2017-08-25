@@ -10,13 +10,13 @@ add external css link below to after ``` <head> ``` open next line and Goto Them
 #### For Wordpress
 Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<head>``` -> and paste below external css code after opening ```<head>``` line
 
-## For Zawgyi
+## External CSS For Zawgyi
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/02f8b62b/zawgyi.css"/>
 ```
 All HTML text are transformed into zawgyi font.
 
-## For Unicode
+## External CSS For Unicode
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/ad9e45c3/unicode.css"/>
 ```
@@ -24,7 +24,7 @@ All HTML text are transformed into unicode font.
 
 
 
-## For Custom Element
+## External CSS For Custom Element of own websites
 IF you want to customize in detail, you can use css standard format.
 
 ```
