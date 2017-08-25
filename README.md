@@ -6,13 +6,13 @@ Only one line to add before ``` </head> ``` tag
 
 ## For Zawgyi
 ```
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/02f8b62b/zawgyi.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/02f8b62b/zawgyi.css"/>
 ```
 All HTML text are transformed into zawgyi font.
 
 ## For Unicode
 ```
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/ad9e45c3/unicode.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/ad9e45c3/unicode.css"/>
 ```
 All HTML text are transformed into unicode font.
 
