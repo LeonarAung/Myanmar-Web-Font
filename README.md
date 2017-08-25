@@ -1,12 +1,12 @@
-## MyanmarFont
+## MyanmarFont ![Myanmar Font](https://cdn0.iconfinder.com/data/icons/195-flat-flag-psd-icons/70/Myanmar.png)
 Myanmar Web Font embed for every web units from any device (Mobile/Desktop/Tablets).
 
 ## Easy CSS Implementation
 
 #### For Custom Websites
-add external css link below to after ``` <head> ``` open next line
+add external css after ``` <head> ``` opening next line
 #### For Bloggers
-add external css link below to after ``` <head> ``` open next line and Goto Theme->Mobile->(Gear Icon)->Choose Mobile Theme to ->Custom . (To work on mobile devices)
+add external css after ``` <head> ``` opening next line and Goto Theme->Mobile->(Gear Icon)->Choose Mobile Theme to ->Custom . (To work on mobile devices)
 #### For Wordpress
 Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<head>``` -> and paste below external css code after opening ```<head>``` line
 
