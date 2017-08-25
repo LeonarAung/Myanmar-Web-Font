@@ -1,5 +1,5 @@
 ## MyanmarFont ![Myanmar Font](https://cdn0.iconfinder.com/data/icons/195-flat-flag-psd-icons/70/Myanmar.png)
-Myanmar Web Font embed for every web units from any device (Mobile/Desktop/Tablets).
+Myanmar Web Font embed for every web unit from any device (Mobile/Desktop/Tablets).
 
 ## Easy CSS Implementation
 
