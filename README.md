@@ -1,15 +1,19 @@
 # MyanmarFont
-Myanmar Web Font embed for every web units from any device.
+Myanmar Web Font embed for every web units from any device (Mobile/Desktop/Tablets).
 
 # Easy CSS Implementation
-Only one line to add before </head> tag
+Only one line to add before ``` </head> ``` tag
 
 # For Zawgyi
+```
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/02f8b62b/zawgyi.css">
+```
 All HTML text are transformed into zawgyi font.
 
 # For Unicode
+```
 <link rel="stylesheet" type="text/css" href="https://github.com/LeonarAung/MyanmarFont/blob/master/unicode.css">
+```
 All HTML text are transformed into unicode font.
 
 
