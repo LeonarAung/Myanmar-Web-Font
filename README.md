@@ -13,6 +13,9 @@ add external css after ``` <head> ``` opening next line
 #### For Wordpress ![Wordpress](https://cdn0.iconfinder.com/data/icons/social-network-9/50/27-32.png)
 Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<head>``` -> and paste below external css code after opening ```<head>``` line
 
+#### ျမန္မာလုိဖတ္မွအဆင္ေျပတဲ့သူေတြအတြက္ ဒီမွာ ဖတ္ရွုႏုိင္ပါတယ္ ။
+http://public.androitechinnovation.com/blogger-zawgyiunicode/
+
 ## External CSS For Zawgyi
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/02f8b62b/zawgyi.css"/>
