@@ -29,7 +29,25 @@ All HTML text are transformed into zawgyi font.
 ```
 All HTML text are transformed into unicode font.
 
+## External JS For Zawgyi
+Pure JS
+```
+<script src="https://cdn.rawgit.com/LeonarAung/Myanmar-Web-Font/7bc50c93/zg_changer_purejs.js"></script>
+```
+JQuery *
+```
+<script src="https://cdn.rawgit.com/LeonarAung/Myanmar-Web-Font/7bc50c93/zg_changer_jquery.js"></script>
+```
 
+## External JS For Unicode
+Pure JS
+```
+<script src="https://cdn.rawgit.com/LeonarAung/Myanmar-Web-Font/7bc50c93/unicode_changer_purejs.js"></script>
+```
+JQuery *
+```
+<script src="https://cdn.rawgit.com/LeonarAung/Myanmar-Web-Font/7bc50c93/unicode_changer_jquery.js"></script>
+```
 
 ## External CSS For Custom Element of own websites
 IF you want to customize in detail, you can use css standard format.
