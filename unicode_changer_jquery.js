@@ -1,1 +1,1 @@
-$('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/ad9e45c3/unicode.css">');
+$('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/LeonarAung/MyanmarFont@ad9e45c3/unicode.css">');

@@ -19,34 +19,34 @@ Goto Appearance->Editor->Theme Header(right-side-below-templates)->find for ```<
 
 ## External CSS For Zawgyi
 ```
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/02f8b62b/zawgyi.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/LeonarAung/MyanmarFont@02f8b62b/zawgyi.css"/>
 ```
 All HTML text are transformed into zawgyi font.
 
 ## External CSS For Unicode
 ```
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/LeonarAung/MyanmarFont/ad9e45c3/unicode.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/LeonarAung/MyanmarFont@ad9e45c3/unicode.css"/>
 ```
 All HTML text are transformed into unicode font.
 
 ## External JS For Zawgyi
 Pure JS
 ```
-<script src="https://cdn.rawgit.com/LeonarAung/Myanmar-Web-Font/7bc50c93/zg_changer_purejs.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/LeonarAung/Myanmar-Web-Font@7bc50c93/zg_changer_purejs.js"></script>
 ```
 JQuery *
 ```
-<script src="https://cdn.rawgit.com/LeonarAung/Myanmar-Web-Font/7bc50c93/zg_changer_jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/LeonarAung/Myanmar-Web-Font@7bc50c93/zg_changer_jquery.js"></script>
 ```
 
 ## External JS For Unicode
 Pure JS
 ```
-<script src="https://cdn.rawgit.com/LeonarAung/Myanmar-Web-Font/7bc50c93/unicode_changer_purejs.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/LeonarAung/Myanmar-Web-Font@7bc50c93/unicode_changer_purejs.js"></script>
 ```
 JQuery *
 ```
-<script src="https://cdn.rawgit.com/LeonarAung/Myanmar-Web-Font/7bc50c93/unicode_changer_jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/LeonarAung/Myanmar-Web-Font@7bc50c93/unicode_changer_jquery.js"></script>
 ```
 
 ## External CSS For Custom Element of own websites
